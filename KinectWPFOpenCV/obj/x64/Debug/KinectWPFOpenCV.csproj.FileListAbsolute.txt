@@ -1,0 +1,1 @@
+D:\HIS-Projects\C#\Samples\OpenCV-WPF-Kinect-master\KinectWPFOpenCV\bin\x64\Debug\KinectWPFOpenCV.exe.config
